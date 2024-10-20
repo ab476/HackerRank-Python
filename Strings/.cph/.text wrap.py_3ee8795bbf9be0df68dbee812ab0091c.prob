@@ -1,0 +1,1 @@
+{"name":"Local: text wrap","url":"d:\\HackerRank\\Python\\Strings\\text wrap.py","tests":[{"id":1729454857936,"input":"ABCDEFGHIJKLIMNOQRSTUVWXYZ\n4","output":"ABCD\nEFGH\nIJKL\nIMNO\nQRST\nUVWX\nYZ"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HackerRank\\Python\\Strings\\text wrap.py","group":"local","local":true}

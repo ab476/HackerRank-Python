@@ -1,0 +1,1 @@
+{"name":"Local: split_and_join","url":"d:\\HackerRank\\Python\\Strings\\split_and_join.py","tests":[{"id":1729452935958,"input":"this is a string","output":"this-is-a-string"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HackerRank\\Python\\Strings\\split_and_join.py","group":"local","local":true}

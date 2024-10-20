@@ -1,0 +1,1 @@
+{"name":"Local: mutate_string","url":"d:\\HackerRank\\Python\\Strings\\mutate_string.py","tests":[{"id":1729453380681,"input":"abracadabra\n5 k","output":"abrackdabra"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HackerRank\\Python\\Strings\\mutate_string.py","group":"local","local":true}
